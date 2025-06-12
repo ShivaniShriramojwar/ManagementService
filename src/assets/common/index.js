@@ -1,0 +1,10 @@
+export { default as checkMarkSvg } from "./check-mark.svg";
+export { default as serverSvg } from "./serve-svg.svg";
+export { default as redIncident } from "./red-incident.svg";
+export { default as lightBolt } from "./light-bolt.svg";
+export { default as apiLink } from "./api-link.svg";
+export { default as global } from "./global.svg";
+export { default as payementSvg } from "./payement-svg.svg";
+export { default as securitySvg } from "./security-svg.svg";
+export { default as databaseLink } from "./database-link.svg";
+export { default as emailIcon } from "./email-icon.svg";
