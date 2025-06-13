@@ -81,7 +81,7 @@ const ServiceTable = ({ services, onEdit, onDelete, onStatusUpdate }) => {
       <Card className="bg-white mb-3">
         <CardHeader>
           <CardTitle>
-            <h1>Service Management</h1>
+            <h1 className="">Service Management</h1>
           </CardTitle>
           <CardAction>
             <Button className="bg-[#6366f1] px-2 py-4 border-none rounded-lg text-md font-medium cursor-pointer text-white">
